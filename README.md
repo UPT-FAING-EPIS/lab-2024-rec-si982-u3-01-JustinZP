@@ -517,6 +517,7 @@ namespace ShortenFunction
 }
 
 ```
+![image](https://github.com/user-attachments/assets/06a47bd0-a6e4-4b20-8d7a-70583514131c)
 
 3. En el VS Code, buscar el proyecto ShortenFunction modificar el archivo local.settings.json, con el siguiente contenido:
 ```JSon
