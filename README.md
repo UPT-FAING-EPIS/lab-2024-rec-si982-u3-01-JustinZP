@@ -672,6 +672,8 @@ else
                 <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Urls Acortadas
             </NavLink>
 ```
+![image](https://github.com/user-attachments/assets/7c0b56d2-a8f0-495d-86a4-03ab285ab5ce)
+
 11. En Visual Studio Code, modificar el archivo program.cs, reemplazar la linea
 > dice
 ```CSharp
