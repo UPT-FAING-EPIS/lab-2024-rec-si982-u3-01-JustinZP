@@ -24,7 +24,9 @@ jobs:
 
       - name: Install TfSec
         run: |
-          curl -s https://raw.githubusercontent.com/aquasecurity/tfsec/master/scripts/install.sh | bash
+          curl -Lo tfsec https://github.com/aquasecurity/tfsec/releases/download/v1.0.9/tfsec-linux-amd64
+          chmod +x tfsec
+          sudo mv tfsec /usr/local/bin/
 
       - name: Run TfSec
         run: |
