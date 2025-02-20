@@ -36,6 +36,8 @@
 ```Powershell
 md infra
 ```
+![image](https://github.com/user-attachments/assets/fc5d3793-992a-471b-9d26-b93c9a8c972f)
+
 2. Abrir Visual Studio Code, seguidamente abrir la carpeta del repositorio clonado del laboratorio, en el folder Infra, crear el archivo main.tf con el siguiente contenido
 ```Terraform
 terraform {
@@ -141,6 +143,7 @@ resource "azurerm_mssql_database" "sqldb" {
   sku_name = "Free"
 }
 ```
+![image](https://github.com/user-attachments/assets/485159a6-83ed-401b-979a-731bbe293c70)
 
 3. Abrir un navegador de internet y dirigirse a su repositorio en Github, en la sección *Settings*, buscar la opción *Secrets and Variables* y seleccionar la opción *Actions*. Dentro de esta crear los siguientes secretos
 > AZURE_USERNAME: Correo o usuario de cuenta de Azure
