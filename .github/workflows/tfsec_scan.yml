@@ -30,8 +30,7 @@ jobs:
         run: |
           tfsec . --format json > tfsec-results.json
 
-      - name: Upload TfSec Results
-        uses: actions/upload-artifact@v2
-        with:
-          name: tfsec-results
-          path: tfsec-results.json
+      - name: Display TfSec Results in Table
+        run: |
+          echo "## TfSec Results"
+          jq -r '.[] | "Severity: \(.severity) | Rule: \(.rule) | Description: \(.description) | File: \(.file) | Line: \(.line)"' tfsec-results.json

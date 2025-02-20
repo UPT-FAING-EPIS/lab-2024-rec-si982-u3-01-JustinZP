@@ -25,8 +25,7 @@ jobs:
         run: |
           trivy fs --security-checks vuln --exit-code 1 --no-progress . > trivy-results.json
 
-      - name: Upload Trivy Results
-        uses: actions/upload-artifact@v2
-        with:
-          name: trivy-results
-          path: trivy-results.json
+      - name: Display Trivy Results in Table
+        run: |
+          echo "## Trivy Results"
+          jq -r '.[] | "Vulnerability: \(.VulnerabilityID) | Severity: \(.Severity) | Package: \(.PkgName) | Installed Version: \(.InstalledVersion) | Fixed Version: \(.FixedVersion)"' trivy-results.json
