@@ -544,6 +544,7 @@ namespace ShortenFunction
 dotnet ef migrations add CreateIdentitySchema
 dotnet ef database update
 ```
+![image](https://github.com/user-attachments/assets/0cc7742c-e5b4-43f7-9813-4a5ee4134063)
 
 5. En el Terminal, ejecutar el siguiente comando para ejecutar la aplicación.
 ```Bash
