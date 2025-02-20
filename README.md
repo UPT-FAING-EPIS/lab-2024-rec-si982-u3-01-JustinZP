@@ -321,6 +321,7 @@ jobs:
             terraform apply -var="suscription_id=${{ secrets.SUSCRIPTION_ID }}" -var="sqladmin_username=${{ secrets.SQL_USER }}" -var="sqladmin_password=${{ secrets.SQL_PASS }}" -auto-approve main.tfplan
 ```
 </details>
+![image](https://github.com/user-attachments/assets/a307cfef-5ce2-4877-9260-29b3bb7d6035)
 
 6. En el Visual Studio Code, guardar los cambios y subir los cambios al repositorio. Revisar los logs de la ejeuciòn de automatizaciòn y anotar el numero de identificaciòn de Grupo de Recursos y Aplicación Web creados
 ```Bash
