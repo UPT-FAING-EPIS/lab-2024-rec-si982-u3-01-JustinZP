@@ -687,11 +687,16 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https:/
 >Donde: XXX, id del azure function
 ![image](https://github.com/user-attachments/assets/7d40e90c-11b9-408f-9277-0d48dfc9d113)
 
-12. (Opcional) en el terminal, ubicarse en la carpeta ClienteAPI, ejecutar el comando `dotnet run` para iniciar la aplicación. Anotar el numero de puerto que aparecera: Now listening on: http://localhost:XXXX. Abrir un navegador de internet e ingresar la url: http://localhost:XXXX
+12. (Opcional) en el terminal, ubicarse en la carpeta ClienteAPI, ejecutar el comando `dotnet run` para iniciar la aplicación. Anotar el numero de puerto que aparecera: Now listening on: http://localhost:XXXX. Abrir un navegador de internet e ingresar la url: [http://localhost:XXXX](http://localhost:5270/)
 
-13. (Opcional) en el navegador de internet, hacer click en la opción de la barra de navegación para generar una Aplicación Web Progresiva (PWA), lo cual creará una aplicación de escritorio utilizando la aplicación web desarrollada.
+![image](https://github.com/user-attachments/assets/09e8a2ec-399a-48c9-a414-949681790256)
 
-14. En el Terminal, ubicarse en el directorio ShortenApp y ejecutar el siguiente comando para realizar el despliegue de la aplicación web estatica.
+![image](https://github.com/user-attachments/assets/70bd031f-e61d-432e-9ce9-e682d22aa3f1)
+
+
+14. (Opcional) en el navegador de internet, hacer click en la opción de la barra de navegación para generar una Aplicación Web Progresiva (PWA), lo cual creará una aplicación de escritorio utilizando la aplicación web desarrollada.
+
+15. En el Terminal, ubicarse en el directorio ShortenApp y ejecutar el siguiente comando para realizar el despliegue de la aplicación web estatica.
 ```Powershell
 dotnet publish -c Release -o publish
 swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
