@@ -34,10 +34,10 @@ resource "random_integer" "ri" {
   max = 999
 }
 
-# Create the resource group in East US 2
+# Create the resource group in Central US
 resource "azurerm_resource_group" "rg" {
   name     = "upt-arg-${random_integer.ri.result}"
-  location = "East US 2"
+  location = "Central US"
 }
 
 resource "azurerm_storage_account" "storageaccount" {
