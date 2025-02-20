@@ -26,12 +26,12 @@ jobs:
         run: |
           curl -s https://raw.githubusercontent.com/aquasecurity/tfsec/master/scripts/install.sh | bash
 
-      - name: Run TfSec
+      - name: Run TfSec Scan
         run: |
           tfsec . --format json > tfsec-results.json
 
       - name: Upload TfSec Results
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: tfsec-results
           path: tfsec-results.json
