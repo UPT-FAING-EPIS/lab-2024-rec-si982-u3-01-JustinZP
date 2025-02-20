@@ -657,6 +657,8 @@ else
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/d6b6ae09-df80-498a-b12a-7abd7255a973)
+
 10. En Visual Studio Code, en el proyecto ClienteApp en la ruta Layout modificar el archivo NavMenu.razor
 > dice
 ```Razor
