@@ -683,7 +683,9 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 ```CSharp
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://upt-afn-XXX.azurewebsites.net") });
 ```
+
 >Donde: XXX, id del azure function
+![image](https://github.com/user-attachments/assets/7d40e90c-11b9-408f-9277-0d48dfc9d113)
 
 12. (Opcional) en el terminal, ubicarse en la carpeta ClienteAPI, ejecutar el comando `dotnet run` para iniciar la aplicación. Anotar el numero de puerto que aparecera: Now listening on: http://localhost:XXXX. Abrir un navegador de internet e ingresar la url: http://localhost:XXXX
 
