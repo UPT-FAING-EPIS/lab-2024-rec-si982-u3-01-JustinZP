@@ -717,10 +717,10 @@ swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
 
 1. Generar y subir el diagrama de infraestructura al repositorio como lab_02.png y el reporte de metricas. (2ptos)
 ## Diagrama de Infraestructura
-
+az group export -n upt-arg-XXX > lab_01.json
 Aquí se muestra el diagrama de infraestructura del proyecto:
 
-![Diagrama de Infraestructura](lab_02.png)
+![image](https://github.com/user-attachments/assets/9bc760c7-c4d9-4962-89c3-47cf3b4ae65f)
 
 Metricas
 ![alt text](image.png)
