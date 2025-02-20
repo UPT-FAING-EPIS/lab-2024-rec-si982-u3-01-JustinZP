@@ -37,7 +37,7 @@ resource "random_integer" "ri" {
 # Create the resource group
 resource "azurerm_resource_group" "rg" {
   name     = "upt-arg-${random_integer.ri.result}"
-  location = "South Central US"  # Cambiado a South Central US
+  location = "West US 2"  # Cambiado a West US 2
 }
 
 resource "azurerm_storage_account" "storageaccount" {
@@ -82,7 +82,7 @@ resource "azurerm_static_web_app" "example" {
 resource "azurerm_mssql_server" "sqlsrv" {
   name                         = "upt-dbs-${random_integer.ri.result}"
   resource_group_name          = azurerm_resource_group.rg.name
-  location                     = azurerm_resource_group.rg.location  # Cambiado a South Central US
+  location                     = azurerm_resource_group.rg.location  # Cambiado a West US 2
   version                      = "12.0"
   administrator_login          = var.sqladmin_username
   administrator_login_password = var.sqladmin_password
