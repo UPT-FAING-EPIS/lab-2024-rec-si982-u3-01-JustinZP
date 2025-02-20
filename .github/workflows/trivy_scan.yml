@@ -1,0 +1,32 @@
+name: Terraform Security Scan with Trivy
+
+on:
+  pull_request:
+    paths:
+      - '**/*.tf'
+  push:
+    branches:
+      - main
+
+jobs:
+  trivy_scan:
+    name: Run Trivy Security Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Trivy
+        run: |
+          curl -sfL https://github.com/aquasecurity/trivy/releases/download/v0.29.0/trivy_0.29.0_Linux-64bit.tar.gz | tar xz -C /usr/local/bin
+
+      - name: Run Trivy
+        run: |
+          trivy fs --security-checks vuln --exit-code 1 --no-progress . > trivy-results.json
+
+      - name: Upload Trivy Results
+        uses: actions/upload-artifact@v3
+        with:
+          name: trivy-results
+          path: trivy-results.json

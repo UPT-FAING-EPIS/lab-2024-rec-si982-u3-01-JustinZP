@@ -1,0 +1,37 @@
+name: Terraform Security Scan with TfSec
+
+on:
+  pull_request:
+    paths:
+      - '**/*.tf'
+  push:
+    branches:
+      - main
+
+jobs:
+  tfsec_scan:
+    name: Run TfSec Security Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: 1.0.0
+
+      - name: Install TfSec
+        run: |
+          curl -s https://raw.githubusercontent.com/aquasecurity/tfsec/master/scripts/install.sh | bash
+
+      - name: Run TfSec
+        run: |
+          tfsec . --format json > tfsec-results.json
+
+      - name: Upload TfSec Results
+        uses: actions/upload-artifact@v3
+        with:
+          name: tfsec-results
+          path: tfsec-results.json
