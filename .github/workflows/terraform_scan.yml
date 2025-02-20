@@ -63,13 +63,13 @@ jobs:
 
     steps:
       - name: Upload TfSec Results
-        uses: actions/upload-artifact@v3  # Actualización a la versión v3
+        uses: actions/upload-artifact@latest  # Actualización a la versión más reciente
         with:
           name: tfsec-results
           path: tfsec-results.json
 
       - name: Upload Trivy Results
-        uses: actions/upload-artifact@v3  # Actualización a la versión v3
+        uses: actions/upload-artifact@latest  # Actualización a la versión más reciente
         with:
           name: trivy-results
           path: trivy-results.json
