@@ -37,7 +37,7 @@ resource "random_integer" "ri" {
 # Create the resource group
 resource "azurerm_resource_group" "rg" {
   name     = "upt-arg-${random_integer.ri.result}"
-  location = "West US 2"  # Cambiado a West US 2
+  location = "South Central US"  # Cambiado a South Central US
 }
 
 resource "azurerm_storage_account" "storageaccount" {
@@ -69,7 +69,7 @@ resource "azurerm_linux_function_app" "azurefunction" {
     always_on = false
     application_stack {
       dotnet_version = "8.0"
-      }
+    }
   }
 }
 
@@ -82,7 +82,7 @@ resource "azurerm_static_web_app" "example" {
 resource "azurerm_mssql_server" "sqlsrv" {
   name                         = "upt-dbs-${random_integer.ri.result}"
   resource_group_name          = azurerm_resource_group.rg.name
-  location                     = azurerm_resource_group.rg.location  # Cambiado a West US 2
+  location                     = azurerm_resource_group.rg.location  # Cambiado a South Central US
   version                      = "12.0"
   administrator_login          = var.sqladmin_username
   administrator_login_password = var.sqladmin_password
@@ -98,5 +98,5 @@ resource "azurerm_mssql_firewall_rule" "sqlaccessrule" {
 resource "azurerm_mssql_database" "sqldb" {
   name      = "shorten"
   server_id = azurerm_mssql_server.sqlsrv.id
-  sku_name = "Free"
+  sku_name  = "Free"
 }
