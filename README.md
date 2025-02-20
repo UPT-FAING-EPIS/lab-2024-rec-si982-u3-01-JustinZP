@@ -587,6 +587,8 @@ cd ShortenApp
 dotnet new razorcomponent -n UrlMapping -o Pages
 code .
 ```
+![image](https://github.com/user-attachments/assets/7b081ce2-f599-4740-b673-f11d4aeba5c8)
+
 9. En Visual Studio Code, dentro del proyecto ClienteApp, editar el archivo UrlMapping.razor con el siguiente contenido:
 ```CSharp
 @page "/urlmapping"
