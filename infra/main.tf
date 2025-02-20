@@ -99,4 +99,5 @@ resource "azurerm_mssql_database" "sqldb" {
   name      = "shorten"
   server_id = azurerm_mssql_server.sqlsrv.id
   sku_name  = "Free"
+
 }
