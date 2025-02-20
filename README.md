@@ -341,6 +341,7 @@ func new --name ShortenHttp --template "HTTP trigger" --authlevel "anonymous"
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version=8.0.0
 dotnet add package Microsoft.EntityFrameworkCore.Tools --version=8.0.0
 ```
+![image](https://github.com/user-attachments/assets/db8aa667-85ea-45aa-a900-adeed69b13e8)
 
 2. En el VS Code, buscar el proyecto ShortenFunction modificar el archivo ShortenHttp.cs, con el siguiente contenido:
 ```CSharp
