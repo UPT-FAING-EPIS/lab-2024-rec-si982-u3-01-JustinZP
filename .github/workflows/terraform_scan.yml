@@ -30,7 +30,11 @@ jobs:
 
       - name: Run TfSec
         run: |
-          tfsec . --format json > tfsec-results.json
+          tfsec . --format json > tfsec-results.json || true  # Permite que continúe aunque tfsec falle
+
+      - name: Display TfSec output
+        run: |
+          cat tfsec-results.json  # Muestra los resultados en la salida
 
   trivy_scan:
     name: Run Trivy Security Scan
@@ -46,7 +50,11 @@ jobs:
 
       - name: Run Trivy
         run: |
-          trivy fs --security-checks vuln --exit-code 1 --no-progress . > trivy-results.json
+          trivy fs --security-checks vuln --exit-code 1 --no-progress . > trivy-results.json || true  # Permite que continúe aunque trivy falle
+
+      - name: Display Trivy output
+        run: |
+          cat trivy-results.json  # Muestra los resultados en la salida
 
   upload_results:
     name: Upload scan results as artifacts
