@@ -34,10 +34,10 @@ resource "random_integer" "ri" {
   max = 999
 }
 
-# Create the resource group in Central US
+# Create the resource group in East US 2
 resource "azurerm_resource_group" "rg" {
   name     = "upt-arg-${random_integer.ri.result}"
-  location = "Central US"
+  location = "East US 2"
 }
 
 resource "azurerm_storage_account" "storageaccount" {
@@ -79,11 +79,10 @@ resource "azurerm_static_web_app" "example" {
   resource_group_name = azurerm_resource_group.rg.name
 }
 
-# Servidor SQL en una región diferente (East US en lugar de Central US)
 resource "azurerm_mssql_server" "sqlsrv" {
   name                         = "upt-dbs-${random_integer.ri.result}"
   resource_group_name          = azurerm_resource_group.rg.name
-  location                     = "East US"  # Cambiado a otra región para usar la opción gratuita
+  location                     = azurerm_resource_group.rg.location
   version                      = "12.0"
   administrator_login          = var.sqladmin_username
   administrator_login_password = var.sqladmin_password
@@ -96,9 +95,8 @@ resource "azurerm_mssql_firewall_rule" "sqlaccessrule" {
   end_ip_address   = "255.255.255.255"
 }
 
-# Base de datos en el servidor SQL de East US
 resource "azurerm_mssql_database" "sqldb" {
   name      = "shorten"
   server_id = azurerm_mssql_server.sqlsrv.id
-  sku_name  = "Free"  # Se mantiene gratuita, pero en East US
+  sku_name  = "Free"
 }
