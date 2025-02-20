@@ -24,13 +24,13 @@ jobs:
 
       - name: Install TfSec
         run: |
-          curl -Lo tfsec https://github.com/aquasecurity/tfsec/releases/download/v1.0.9/tfsec-linux-amd64
+          curl -sSL https://github.com/aquasecurity/tfsec/releases/download/v1.0.9/tfsec-linux-amd64 -o tfsec
           chmod +x tfsec
           sudo mv tfsec /usr/local/bin/
 
       - name: Run TfSec
         run: |
-          tfsec . --format json > tfsec-results.json || true  # Permite que continúe aunque tfsec falle
+          tfsec . --format json > tfsec-results.json || true  # Continúa aunque tfsec falle
 
       - name: Display TfSec output
         run: |
@@ -50,7 +50,7 @@ jobs:
 
       - name: Run Trivy
         run: |
-          trivy fs --security-checks vuln --exit-code 1 --no-progress . > trivy-results.json || true  # Permite que continúe aunque trivy falle
+          trivy fs --security-checks vuln --exit-code 1 --no-progress . > trivy-results.json || true  # Continúa aunque trivy falle
 
       - name: Display Trivy output
         run: |
@@ -63,13 +63,13 @@ jobs:
 
     steps:
       - name: Upload TfSec Results
-        uses: actions/upload-artifact@latest  # Actualización a la versión más reciente
+        uses: actions/upload-artifact@v4  # Usamos la versión v4 actualizada
         with:
           name: tfsec-results
           path: tfsec-results.json
 
       - name: Upload Trivy Results
-        uses: actions/upload-artifact@latest  # Actualización a la versión más reciente
+        uses: actions/upload-artifact@v4  # Usamos la versión v4 actualizada
         with:
           name: trivy-results
           path: trivy-results.json
