@@ -544,11 +544,13 @@ namespace ShortenFunction
 dotnet ef migrations add CreateIdentitySchema
 dotnet ef database update
 ```
+![image](https://github.com/user-attachments/assets/0cc7742c-e5b4-43f7-9813-4a5ee4134063)
 
 5. En el Terminal, ejecutar el siguiente comando para ejecutar la aplicación.
 ```Bash
 func start
 ```
+![image](https://github.com/user-attachments/assets/4690b1dd-933b-4627-b62e-894e5f6de046)
 
 6. En el Terminal, ejecutar el siguiente comando para configurar, compilar y desplegar la aplicación.
 ```Bash
@@ -559,12 +561,22 @@ cd publish
 zip -r functionapp.zip .
 az functionapp deployment source config-zip -g upt-arg-373 -n upt-afn-373 --src .\functionapp.zip --verbose
 ```
+
 >Donde: XXX, id de su servidor de base de datos
 >       YYY, usuario administrador de base de datos
 >       ZZZ, password del usuario de base de datos
 
+![image](https://github.com/user-attachments/assets/c3821e69-efca-413b-87c4-1c46288e3046)
+![image](https://github.com/user-attachments/assets/48ada0c1-edb1-4e43-b469-4e9435a14b7a)
+![image](https://github.com/user-attachments/assets/46e857d3-df3a-4e83-9566-9eaa6cb1774e)
+![image](https://github.com/user-attachments/assets/83132e74-e1e0-4078-a88f-ac11c6d32f44)
+
 7. En el Navegador, abrir una nueva pestaña e ingresar a la url https://upt-afn-XXX.azurewebsites.net/api/shorturl
 >Donde: XXX, id de su azure function
+![image](https://github.com/user-attachments/assets/3a61f3f4-ca49-45b0-b859-1cf92083f542)
+
+>https://upt-afn-621.azurewebsites.net/
+![image](https://github.com/user-attachments/assets/f399e1e5-2ab9-410d-a856-024e9e124c55)
 
 ### CONSTRUCCION DE LA APLICACION - FRONTEND
 
@@ -575,6 +587,8 @@ cd ShortenApp
 dotnet new razorcomponent -n UrlMapping -o Pages
 code .
 ```
+![image](https://github.com/user-attachments/assets/7b081ce2-f599-4740-b673-f11d4aeba5c8)
+
 9. En Visual Studio Code, dentro del proyecto ClienteApp, editar el archivo UrlMapping.razor con el siguiente contenido:
 ```CSharp
 @page "/urlmapping"
@@ -643,6 +657,8 @@ else
     }
 }
 ```
+![image](https://github.com/user-attachments/assets/d6b6ae09-df80-498a-b12a-7abd7255a973)
+
 10. En Visual Studio Code, en el proyecto ClienteApp en la ruta Layout modificar el archivo NavMenu.razor
 > dice
 ```Razor
@@ -656,6 +672,8 @@ else
                 <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Urls Acortadas
             </NavLink>
 ```
+![image](https://github.com/user-attachments/assets/7c0b56d2-a8f0-495d-86a4-03ab285ab5ce)
+
 11. En Visual Studio Code, modificar el archivo program.cs, reemplazar la linea
 > dice
 ```CSharp
@@ -665,13 +683,21 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 ```CSharp
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://upt-afn-XXX.azurewebsites.net") });
 ```
+
 >Donde: XXX, id del azure function
+![image](https://github.com/user-attachments/assets/7d40e90c-11b9-408f-9277-0d48dfc9d113)
 
-12. (Opcional) en el terminal, ubicarse en la carpeta ClienteAPI, ejecutar el comando `dotnet run` para iniciar la aplicación. Anotar el numero de puerto que aparecera: Now listening on: http://localhost:XXXX. Abrir un navegador de internet e ingresar la url: http://localhost:XXXX
+12. (Opcional) en el terminal, ubicarse en la carpeta ClienteAPI, ejecutar el comando `dotnet run` para iniciar la aplicación. Anotar el numero de puerto que aparecera: Now listening on: http://localhost:XXXX. Abrir un navegador de internet e ingresar la url: [http://localhost:XXXX](http://localhost:5270/)
 
-13. (Opcional) en el navegador de internet, hacer click en la opción de la barra de navegación para generar una Aplicación Web Progresiva (PWA), lo cual creará una aplicación de escritorio utilizando la aplicación web desarrollada.
+![image](https://github.com/user-attachments/assets/09e8a2ec-399a-48c9-a414-949681790256)
 
-14. En el Terminal, ubicarse en el directorio ShortenApp y ejecutar el siguiente comando para realizar el despliegue de la aplicación web estatica.
+![image](https://github.com/user-attachments/assets/70bd031f-e61d-432e-9ce9-e682d22aa3f1)
+
+
+14. (Opcional) en el navegador de internet, hacer click en la opción de la barra de navegación para generar una Aplicación Web Progresiva (PWA), lo cual creará una aplicación de escritorio utilizando la aplicación web desarrollada.
+![image](https://github.com/user-attachments/assets/6245ebc3-3d6f-459b-8dab-597773773d24)
+
+15. En el Terminal, ubicarse en el directorio ShortenApp y ejecutar el siguiente comando para realizar el despliegue de la aplicación web estatica.
 ```Powershell
 dotnet publish -c Release -o publish
 swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
@@ -682,6 +708,9 @@ swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
 
 ![image](https://github.com/user-attachments/assets/463ed443-3843-44a1-95bf-c7a9aa999666)
 
+![image](https://github.com/user-attachments/assets/ad2f6050-0aa5-433b-925b-8328308e156a)
+
+![image](https://github.com/user-attachments/assets/a66197c3-bd1a-4997-aaa6-c9325f08f021)
 
 ## ACTIVIDADES ENCARGADAS
 
