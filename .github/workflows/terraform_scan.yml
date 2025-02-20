@@ -1,0 +1,65 @@
+name: Terraform Security Scan
+
+on:
+  pull_request:
+    paths:
+      - '**/*.tf'
+  push:
+    branches:
+      - main
+
+jobs:
+  tfsec_scan:
+    name: Run TfSec Security Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Terraform
+        uses: hashicorp/setup-terraform@v1
+        with:
+          terraform_version: 1.0.0
+
+      - name: Install TfSec
+        run: |
+          curl -s https://raw.githubusercontent.com/aquasecurity/tfsec/master/scripts/install.sh | bash
+
+      - name: Run TfSec
+        run: |
+          tfsec .
+
+  trivy_scan:
+    name: Run Trivy Security Scan
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Trivy
+        run: |
+          curl -sfL https://github.com/aquasecurity/trivy/releases/download/v0.29.0/trivy_0.29.0_Linux-64bit.tar.gz | tar xz -C /usr/local/bin
+
+      - name: Run Trivy
+        run: |
+          trivy fs --security-checks vuln --exit-code 1 --no-progress .
+
+  upload_results:
+    name: Upload scan results as artifacts
+    runs-on: ubuntu-latest
+    needs: [tfsec_scan, trivy_scan]
+    
+    steps:
+      - name: Upload TfSec Results
+        uses: actions/upload-artifact@v2
+        with:
+          name: tfsec-results
+          path: tfsec-results.json
+
+      - name: Upload Trivy Results
+        uses: actions/upload-artifact@v2
+        with:
+          name: trivy-results
+          path: trivy-results.json
