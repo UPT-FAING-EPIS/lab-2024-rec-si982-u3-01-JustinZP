@@ -36,6 +36,8 @@
 ```Powershell
 md infra
 ```
+![image](https://github.com/user-attachments/assets/fc5d3793-992a-471b-9d26-b93c9a8c972f)
+
 2. Abrir Visual Studio Code, seguidamente abrir la carpeta del repositorio clonado del laboratorio, en el folder Infra, crear el archivo main.tf con el siguiente contenido
 ```Terraform
 terraform {
@@ -141,6 +143,7 @@ resource "azurerm_mssql_database" "sqldb" {
   sku_name = "Free"
 }
 ```
+![image](https://github.com/user-attachments/assets/485159a6-83ed-401b-979a-731bbe293c70)
 
 3. Abrir un navegador de internet y dirigirse a su repositorio en Github, en la sección *Settings*, buscar la opción *Secrets and Variables* y seleccionar la opción *Actions*. Dentro de esta crear los siguientes secretos
 > AZURE_USERNAME: Correo o usuario de cuenta de Azure
@@ -152,6 +155,7 @@ resource "azurerm_mssql_database" "sqldb" {
 > SQL_USER: Usuario administrador de la base de datos, ejm: adminsql
 > 
 > SQL_PASS: Password del usuario administrador de la base de datos, ejm: upt.2025
+![image](https://github.com/user-attachments/assets/09516405-55b1-4e07-9c2e-114904f8b82d)
 
 5. En el Visual Studio Code, crear la carpeta .github/workflows en la raiz del proyecto, seguidamente crear el archivo deploy.yml con el siguiente contenido
 <details><summary>Click to expand: deploy.yml</summary>
@@ -318,10 +322,12 @@ jobs:
 ```
 </details>
 
+
 6. En el Visual Studio Code, guardar los cambios y subir los cambios al repositorio. Revisar los logs de la ejeuciòn de automatizaciòn y anotar el numero de identificaciòn de Grupo de Recursos y Aplicación Web creados
 ```Bash
 azurerm_linux_web_app.webapp: Creation complete after 53s [id=/subscriptions/1f57de72-50fd-4271-8ab9-3fc129f02bc0/resourceGroups/upt-arg-XXX/providers/Microsoft.Web/sites/upt-awa-XXX]
 ```
+![image](https://github.com/user-attachments/assets/048fedb6-0e85-4c72-8ba3-0754cfbec2b6)
 
 ### CONSTRUCCION DE LA APLICACION - BACKEND
 
@@ -335,6 +341,7 @@ func new --name ShortenHttp --template "HTTP trigger" --authlevel "anonymous"
 dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version=8.0.0
 dotnet add package Microsoft.EntityFrameworkCore.Tools --version=8.0.0
 ```
+![image](https://github.com/user-attachments/assets/db8aa667-85ea-45aa-a900-adeed69b13e8)
 
 2. En el VS Code, buscar el proyecto ShortenFunction modificar el archivo ShortenHttp.cs, con el siguiente contenido:
 ```CSharp
@@ -510,6 +517,7 @@ namespace ShortenFunction
 }
 
 ```
+![image](https://github.com/user-attachments/assets/06a47bd0-a6e4-4b20-8d7a-70583514131c)
 
 3. En el VS Code, buscar el proyecto ShortenFunction modificar el archivo local.settings.json, con el siguiente contenido:
 ```JSon
@@ -524,6 +532,9 @@ namespace ShortenFunction
   }
 }
 ```
+![image](https://github.com/user-attachments/assets/04c99754-cca1-42ed-b62e-f1500310f5b0)
+![image](https://github.com/user-attachments/assets/11c2b0c5-13cc-402a-b32f-c56776a540d8)
+
 >Donde: XXX, id de su servidor de base de datos
 >       YYY, usuario administrador de base de datos
 >       ZZZ, password del usuario de base de datos
