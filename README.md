@@ -561,9 +561,15 @@ cd publish
 zip -r functionapp.zip .
 az functionapp deployment source config-zip -g upt-arg-373 -n upt-afn-373 --src .\functionapp.zip --verbose
 ```
+
 >Donde: XXX, id de su servidor de base de datos
 >       YYY, usuario administrador de base de datos
 >       ZZZ, password del usuario de base de datos
+
+![image](https://github.com/user-attachments/assets/c3821e69-efca-413b-87c4-1c46288e3046)
+![image](https://github.com/user-attachments/assets/48ada0c1-edb1-4e43-b469-4e9435a14b7a)
+![image](https://github.com/user-attachments/assets/46e857d3-df3a-4e83-9566-9eaa6cb1774e)
+![image](https://github.com/user-attachments/assets/83132e74-e1e0-4078-a88f-ac11c6d32f44)
 
 7. En el Navegador, abrir una nueva pestaña e ingresar a la url https://upt-afn-XXX.azurewebsites.net/api/shorturl
 >Donde: XXX, id de su azure function
