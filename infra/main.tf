@@ -34,10 +34,10 @@ resource "random_integer" "ri" {
   max = 999
 }
 
-# Create the resource group
+# Create the resource group in Central US
 resource "azurerm_resource_group" "rg" {
   name     = "upt-arg-${random_integer.ri.result}"
-  location = "West US 2"  # Cambiado a West US 2
+  location = "Central US"
 }
 
 resource "azurerm_storage_account" "storageaccount" {
@@ -82,7 +82,7 @@ resource "azurerm_static_web_app" "example" {
 resource "azurerm_mssql_server" "sqlsrv" {
   name                         = "upt-dbs-${random_integer.ri.result}"
   resource_group_name          = azurerm_resource_group.rg.name
-  location                     = azurerm_resource_group.rg.location  # Cambiado a West US 2
+  location                     = azurerm_resource_group.rg.location
   version                      = "12.0"
   administrator_login          = var.sqladmin_username
   administrator_login_password = var.sqladmin_password
