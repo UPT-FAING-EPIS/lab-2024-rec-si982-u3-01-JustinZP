@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ShortenApp",
   "resources": {
-    "hash": "sha256-yIDGvzZMomMZ6h9utGcN8MMOBmRpqywQIS9H8ZzXrl0=",
+    "hash": "sha256-AxkICVJQ4xu5pUdEMt0b+zIGHwfPev2I80fG5GG7p2k=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "ShortenApp.teth2eau5n.wasm": "ShortenApp.wasm",
-      "ShortenApp.xdris7dbcw.pdb": "ShortenApp.pdb"
+      "ShortenApp.v187lcvder.wasm": "ShortenApp.wasm",
+      "ShortenApp.0kh6apz2ve.pdb": "ShortenApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hmanx9razn.js": "sha256-d7UNSArplVrX3arY2Kmhxp1wN79ng8hLqIBrkiQ9Gbo="
@@ -412,10 +412,10 @@
       "WindowsBase.377bly7twj.wasm": "sha256-0VmBdMjdc0nZGHDSfaGirT6y3mJTM0qx8eqCUC/rpiE=",
       "mscorlib.o0184ey5ia.wasm": "sha256-2GxNKZQJVJvYMUxSTuXa5V2qxawSMMHZtwG33SKVCZU=",
       "netstandard.hb3h2rr8mk.wasm": "sha256-DWn9+RH/ElZQ6imlYqVwZvir1KTzNwY18AzGmnyiymU=",
-      "ShortenApp.teth2eau5n.wasm": "sha256-2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A="
+      "ShortenApp.v187lcvder.wasm": "sha256-fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0="
     },
     "pdb": {
-      "ShortenApp.xdris7dbcw.pdb": "sha256-2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U="
+      "ShortenApp.0kh6apz2ve.pdb": "sha256-YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU="
     }
   },
   "cacheBootResources": true,

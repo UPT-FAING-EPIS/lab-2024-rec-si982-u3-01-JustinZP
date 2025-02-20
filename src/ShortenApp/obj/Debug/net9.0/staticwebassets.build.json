@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yNll3d8zKfme4H37usd/c1HPM71wkrF0k6L8qHvz+M8=",
+  "Hash": "biNhE5/UXuDVQh3+dgsq2P0H9fmDonTHv6Ck0UAk2nw=",
   "Source": "ShortenApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "gjd5jr1pff",
-      "Integrity": "NJ03UT2rJC7xLECULB8SOUSwzvsF/VflRwTVYUQ4QgQ=",
+      "Fingerprint": "khwjvqq9jh",
+      "Integrity": "ODJs/EOemv9X820oHfrTD2+10wjMV0nwCBBPGAQwVs4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -871,8 +871,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "xdris7dbcw",
-      "Integrity": "2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U=",
+      "Fingerprint": "0kh6apz2ve",
+      "Integrity": "YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\ShortenApp.pdb"
@@ -892,8 +892,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "teth2eau5n",
-      "Integrity": "2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A=",
+      "Fingerprint": "v187lcvder",
+      "Integrity": "fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\webcil\\ShortenApp.wasm"
@@ -4343,7 +4343,7 @@
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.wasm"
     },
     {
-      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\07arwnbvkt-0agex08uj7.gz",
+      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\07arwnbvkt-qoqft8jj27.gz",
       "SourceId": "ShortenApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -4385,12 +4385,12 @@
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Diagnostics.DiagnosticSource.wasm"
     },
     {
-      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-xdris7dbcw.gz",
+      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-0kh6apz2ve.gz",
       "SourceId": "ShortenApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ShortenApp#[.{fingerprint=xdris7dbcw}]!.pdb.gz",
+      "RelativePath": "_framework/ShortenApp#[.{fingerprint=0kh6apz2ve}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -4399,8 +4399,8 @@
       "RelatedAsset": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "03uidaptiv",
-      "Integrity": "zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA=",
+      "Fingerprint": "9vnip52ccp",
+      "Integrity": "q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.pdb"
@@ -6338,12 +6338,12 @@
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-teth2eau5n.gz",
+      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-v187lcvder.gz",
       "SourceId": "ShortenApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ShortenApp#[.{fingerprint=teth2eau5n}]!.wasm.gz",
+      "RelativePath": "_framework/ShortenApp#[.{fingerprint=v187lcvder}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6352,8 +6352,8 @@
       "RelatedAsset": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vbd16k43ge",
-      "Integrity": "RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak=",
+      "Fingerprint": "pmwe508z8i",
+      "Integrity": "T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.wasm"
@@ -6548,7 +6548,7 @@
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\dekiqus4po-csmh3oyql8.gz",
+      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\dekiqus4po-s3wkenybkx.gz",
       "SourceId": "ShortenApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -6562,8 +6562,8 @@
       "RelatedAsset": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dfyzz5dcgy",
-      "Integrity": "CaCGW7p8J4kPk6Req/uFATejz+jE85U/mUdsGaGap7w=",
+      "Fingerprint": "nvrq1orjaf",
+      "Integrity": "XX+49+4C2yTsm9GiHS4R6Rwis3cSco+xtQrwc8WdNCg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -7808,7 +7808,7 @@
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Linq.wasm"
     },
     {
-      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\nadmvnybdh-gjd5jr1pff.gz",
+      "Identity": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\nadmvnybdh-khwjvqq9jh.gz",
       "SourceId": "ShortenApp",
       "SourceType": "Computed",
       "ContentRoot": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\",
@@ -7822,8 +7822,8 @@
       "RelatedAsset": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "52361zyaea",
-      "Integrity": "A/54YKtwXKrf3fYAoV6iMmMpV4lfB4Z0XmYkWHkDHps=",
+      "Fingerprint": "kj0ks8g8vs",
+      "Integrity": "wPtSu8q5KDdrAW4/QX/wVFdnxNmIsQ+nSTri76jHcCw=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -9733,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "csmh3oyql8",
-      "Integrity": "ZI9/ZXVZfYTbEXI4JpMWnlVrb2LqnettMnhjBHbAVMI=",
+      "Fingerprint": "s3wkenybkx",
+      "Integrity": "iEnPVVWwcqgN5JIqu+yHcV3d4KCUCc9CZn/js37vOOE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -9754,8 +9754,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "0agex08uj7",
-      "Integrity": "GPW0tIMuyoDg8wcQd8slZA7VHoJd0L77ZzO7sOL2xMM=",
+      "Fingerprint": "qoqft8jj27",
+      "Integrity": "2oESA0rLgqYJcrBzWFLYoLM6RF4eirbxwiaHsYHwUwY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "wwwroot\\service-worker.js"
@@ -10852,11 +10852,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NJ03UT2rJC7xLECULB8SOUSwzvsF/VflRwTVYUQ4QgQ=\""
+          "Value": "\"ODJs/EOemv9X820oHfrTD2+10wjMV0nwCBBPGAQwVs4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10866,18 +10866,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NJ03UT2rJC7xLECULB8SOUSwzvsF/VflRwTVYUQ4QgQ="
+          "Value": "sha256-ODJs/EOemv9X820oHfrTD2+10wjMV0nwCBBPGAQwVs4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\nadmvnybdh-gjd5jr1pff.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\nadmvnybdh-khwjvqq9jh.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081221572"
+          "Quality": "0.000081214976"
         }
       ],
       "ResponseHeaders": [
@@ -10887,11 +10887,11 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12311"
+          "Value": "12312"
         },
         {
           "Name": "ETag",
-          "Value": "\"A/54YKtwXKrf3fYAoV6iMmMpV4lfB4Z0XmYkWHkDHps=\""
+          "Value": "\"wPtSu8q5KDdrAW4/QX/wVFdnxNmIsQ+nSTri76jHcCw=\""
         },
         {
           "Name": "Last-Modified",
@@ -10915,19 +10915,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NJ03UT2rJC7xLECULB8SOUSwzvsF/VflRwTVYUQ4QgQ=\""
+          "Value": "W/\"ODJs/EOemv9X820oHfrTD2+10wjMV0nwCBBPGAQwVs4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NJ03UT2rJC7xLECULB8SOUSwzvsF/VflRwTVYUQ4QgQ="
+          "Value": "sha256-ODJs/EOemv9X820oHfrTD2+10wjMV0nwCBBPGAQwVs4="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\nadmvnybdh-gjd5jr1pff.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\nadmvnybdh-khwjvqq9jh.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10936,7 +10936,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12311"
+          "Value": "12312"
         },
         {
           "Name": "Content-Type",
@@ -10944,7 +10944,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"A/54YKtwXKrf3fYAoV6iMmMpV4lfB4Z0XmYkWHkDHps=\""
+          "Value": "\"wPtSu8q5KDdrAW4/QX/wVFdnxNmIsQ+nSTri76jHcCw=\""
         },
         {
           "Name": "Last-Modified",
@@ -10966,7 +10966,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-A/54YKtwXKrf3fYAoV6iMmMpV4lfB4Z0XmYkWHkDHps="
+          "Value": "sha256-wPtSu8q5KDdrAW4/QX/wVFdnxNmIsQ+nSTri76jHcCw="
         }
       ]
     },
@@ -11032,7 +11032,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 13:25:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11085,7 +11085,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 13:25:32 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11169,7 +11169,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11222,7 +11222,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11306,7 +11306,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11359,7 +11359,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11451,7 +11451,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11512,7 +11512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12208,7 +12208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12269,7 +12269,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12461,7 +12461,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12522,7 +12522,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12659,7 +12659,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -12712,7 +12712,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Tue, 29 Oct 2024 02:44:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22432,7 +22432,7 @@
       ]
     },
     {
-      "Route": "_framework/ShortenApp.pdb",
+      "Route": "_framework/ShortenApp.0kh6apz2ve.pdb",
       "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -22450,148 +22450,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U=\""
+          "Value": "\"YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.pdb",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-xdris7dbcw.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000051056877"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19585"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.pdb.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-xdris7dbcw.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19585"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.teth2eau5n.wasm",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:23 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22601,305 +22464,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "teth2eau5n"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ShortenApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.teth2eau5n.wasm",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-teth2eau5n.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000113314448"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8824"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "teth2eau5n"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ShortenApp.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.teth2eau5n.wasm.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-teth2eau5n.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "teth2eau5n"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ShortenApp.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.wasm",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "20757"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.wasm",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-teth2eau5n.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000113314448"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8824"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-2/a3THnK2dyoAkAVq7m4gwnv4Ow/EjvVb2AmdNsTh2A="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.wasm.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-teth2eau5n.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8824"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-RXAhJpG0G4eeNqsBxTLzZ9hSerp0KmYhDV5BaIDa5ak="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ShortenApp.xdris7dbcw.pdb",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "26504"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xdris7dbcw"
+          "Value": "0kh6apz2ve"
         },
         {
           "Name": "label",
@@ -22907,18 +22472,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U="
+          "Value": "sha256-YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU="
         }
       ]
     },
     {
-      "Route": "_framework/ShortenApp.xdris7dbcw.pdb",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-xdris7dbcw.gz",
+      "Route": "_framework/ShortenApp.0kh6apz2ve.pdb",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-0kh6apz2ve.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000051056877"
+          "Quality": "0.000051069915"
         }
       ],
       "ResponseHeaders": [
@@ -22928,15 +22493,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19585"
+          "Value": "19580"
         },
         {
           "Name": "ETag",
-          "Value": "\"zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA=\""
+          "Value": "\"q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -22956,13 +22521,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U=\""
+          "Value": "W/\"YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xdris7dbcw"
+          "Value": "0kh6apz2ve"
         },
         {
           "Name": "label",
@@ -22970,13 +22535,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-2/wNm6GZTsP4uCg9e7EN2EZ4FvqhfsB5lX1kwg0hP1U="
+          "Value": "sha256-YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU="
         }
       ]
     },
     {
-      "Route": "_framework/ShortenApp.xdris7dbcw.pdb.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-xdris7dbcw.gz",
+      "Route": "_framework/ShortenApp.0kh6apz2ve.pdb.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-0kh6apz2ve.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -22985,7 +22550,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19585"
+          "Value": "19580"
         },
         {
           "Name": "Content-Type",
@@ -22993,11 +22558,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA=\""
+          "Value": "\"q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -23015,7 +22580,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xdris7dbcw"
+          "Value": "0kh6apz2ve"
         },
         {
           "Name": "label",
@@ -23023,7 +22588,442 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zM0olxHolp5qLVDzJiQ5oCacM5gF0ni7K/DzVXIKPGA="
+          "Value": "sha256-q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.pdb",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26504"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.pdb",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-0kh6apz2ve.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000051069915"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19580"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YJyhAD5GwaJmGqBe5pGD8MF8Y5RSWLmZRkU7H0Z2GcU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.pdb.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\0e719pvf3w-0kh6apz2ve.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19580"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q6mjByCf0GKMbfCWNypKc9aeDjmOXAgU6NCku21usco="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.v187lcvder.wasm",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v187lcvder"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ShortenApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.v187lcvder.wasm",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-v187lcvder.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000113391541"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8818"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v187lcvder"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ShortenApp.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.v187lcvder.wasm.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-v187lcvder.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v187lcvder"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ShortenApp.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.wasm",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ShortenApp.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20757"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.wasm",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-v187lcvder.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000113391541"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8818"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcbK7xC4CorWwUY2Zf/DsEvXn+xl8BSQiqPIUX713v0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ShortenApp.wasm.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\c5drad4r15-v187lcvder.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8818"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/45PCmVEXbgU2YOLLz76FqjUYT9yxnyC09SE13PBKY="
         }
       ]
     },
@@ -85855,12 +85855,12 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\dekiqus4po-csmh3oyql8.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\dekiqus4po-s3wkenybkx.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000079051383"
+          "Quality": "0.000079045135"
         }
       ],
       "ResponseHeaders": [
@@ -85870,15 +85870,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12649"
+          "Value": "12650"
         },
         {
           "Name": "ETag",
-          "Value": "\"CaCGW7p8J4kPk6Req/uFATejz+jE85U/mUdsGaGap7w=\""
+          "Value": "\"XX+49+4C2yTsm9GiHS4R6Rwis3cSco+xtQrwc8WdNCg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85898,13 +85898,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZI9/ZXVZfYTbEXI4JpMWnlVrb2LqnettMnhjBHbAVMI=\""
+          "Value": "W/\"iEnPVVWwcqgN5JIqu+yHcV3d4KCUCc9CZn/js37vOOE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZI9/ZXVZfYTbEXI4JpMWnlVrb2LqnettMnhjBHbAVMI="
+          "Value": "sha256-iEnPVVWwcqgN5JIqu+yHcV3d4KCUCc9CZn/js37vOOE="
         }
       ]
     },
@@ -85927,11 +85927,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZI9/ZXVZfYTbEXI4JpMWnlVrb2LqnettMnhjBHbAVMI=\""
+          "Value": "\"iEnPVVWwcqgN5JIqu+yHcV3d4KCUCc9CZn/js37vOOE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85941,13 +85941,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZI9/ZXVZfYTbEXI4JpMWnlVrb2LqnettMnhjBHbAVMI="
+          "Value": "sha256-iEnPVVWwcqgN5JIqu+yHcV3d4KCUCc9CZn/js37vOOE="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\dekiqus4po-csmh3oyql8.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\dekiqus4po-s3wkenybkx.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -85956,7 +85956,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12649"
+          "Value": "12650"
         },
         {
           "Name": "Content-Type",
@@ -85964,11 +85964,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CaCGW7p8J4kPk6Req/uFATejz+jE85U/mUdsGaGap7w=\""
+          "Value": "\"XX+49+4C2yTsm9GiHS4R6Rwis3cSco+xtQrwc8WdNCg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -85986,13 +85986,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CaCGW7p8J4kPk6Req/uFATejz+jE85U/mUdsGaGap7w="
+          "Value": "sha256-XX+49+4C2yTsm9GiHS4R6Rwis3cSco+xtQrwc8WdNCg="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\07arwnbvkt-0agex08uj7.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\07arwnbvkt-qoqft8jj27.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -86015,7 +86015,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -86035,13 +86035,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GPW0tIMuyoDg8wcQd8slZA7VHoJd0L77ZzO7sOL2xMM=\""
+          "Value": "W/\"2oESA0rLgqYJcrBzWFLYoLM6RF4eirbxwiaHsYHwUwY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPW0tIMuyoDg8wcQd8slZA7VHoJd0L77ZzO7sOL2xMM="
+          "Value": "sha256-2oESA0rLgqYJcrBzWFLYoLM6RF4eirbxwiaHsYHwUwY="
         }
       ]
     },
@@ -86064,7 +86064,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GPW0tIMuyoDg8wcQd8slZA7VHoJd0L77ZzO7sOL2xMM=\""
+          "Value": "\"2oESA0rLgqYJcrBzWFLYoLM6RF4eirbxwiaHsYHwUwY=\""
         },
         {
           "Name": "Last-Modified",
@@ -86078,13 +86078,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GPW0tIMuyoDg8wcQd8slZA7VHoJd0L77ZzO7sOL2xMM="
+          "Value": "sha256-2oESA0rLgqYJcrBzWFLYoLM6RF4eirbxwiaHsYHwUwY="
         }
       ]
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\07arwnbvkt-0agex08uj7.gz",
+      "AssetFile": "D:\\PROGRA-WEB-RECUPERACION\\Unidad3\\lab-2024-rec-si982-u3-01-JustinZP\\src\\ShortenApp\\obj\\Debug\\net9.0\\compressed\\07arwnbvkt-qoqft8jj27.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -86105,7 +86105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 09:38:24 GMT"
+          "Value": "Thu, 20 Feb 2025 15:47:23 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -38,8 +38,6 @@ D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\Shorten
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Win32.Registry.yqsrs1xmzk.wasm
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\mscorlib.o0184ey5ia.wasm
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\netstandard.hb3h2rr8mk.wasm
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.xdris7dbcw.pdb
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.teth2eau5n.wasm
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.AppContext.rb3sudfxx6.wasm
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Buffers.ijnujodfj9.wasm
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Collections.Concurrent.xuu1t5r6su.wasm
@@ -206,7 +204,6 @@ D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\Shorten
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Net.WebSockets.Client.rvu8vmr0jl.wasm.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\service-worker.js.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.h1ambxmssc.wasm.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.xdris7dbcw.pdb.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Private.CoreLib.fk089ohxy8.wasm.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Drawing.Primitives.1cifgrgsmj.wasm.gz
@@ -280,7 +277,6 @@ D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\Shorten
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.wzhxi250cz.wasm.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.q5if44af42.wasm.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\System.Xml.Serialization.j1e5q5wved.wasm.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.teth2eau5n.wasm.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.Logging.f89dlchogn.wasm.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.qnaw45f7ij.wasm.gz
@@ -1072,11 +1068,6 @@ D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\Shorten
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\uffe2cxbsf-tjcz0u77k5.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\c7pyq6ilv6-tptq2av103.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\0erq82gbn5-lfu7j35m59.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\c5drad4r15-teth2eau5n.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\0e719pvf3w-xdris7dbcw.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\nadmvnybdh-gjd5jr1pff.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\07arwnbvkt-0agex08uj7.gz
-D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\dekiqus4po-csmh3oyql8.gz
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\staticwebassets.build.json
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\staticwebassets.development.json
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -1091,3 +1082,16 @@ D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\Shorten
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\refint\ShortenApp.dll
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\ShortenApp.pdb
 D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\ref\ShortenApp.dll
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.0kh6apz2ve.pdb
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.v187lcvder.wasm
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.0kh6apz2ve.pdb.gz
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\wwwroot\_framework\ShortenApp.v187lcvder.wasm.gz
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\publish\web.config
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\publish\ShortenApp.staticwebassets.endpoints.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\publish\wwwroot\sample-data\weather.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\bin\Debug\net9.0\publish\wwwroot\_framework\blazor.boot.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\c5drad4r15-v187lcvder.gz
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\0e719pvf3w-0kh6apz2ve.gz
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\nadmvnybdh-khwjvqq9jh.gz
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\07arwnbvkt-qoqft8jj27.gz
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\obj\Debug\net9.0\compressed\dekiqus4po-s3wkenybkx.gz
