@@ -573,10 +573,11 @@ az functionapp deployment source config-zip -g upt-arg-373 -n upt-afn-373 --src 
 
 7. En el Navegador, abrir una nueva pestaña e ingresar a la url https://upt-afn-XXX.azurewebsites.net/api/shorturl
 >Donde: XXX, id de su azure function
+
 ![image](https://github.com/user-attachments/assets/3a61f3f4-ca49-45b0-b859-1cf92083f542)
 
->https://upt-afn-621.azurewebsites.net/
-![image](https://github.com/user-attachments/assets/f399e1e5-2ab9-410d-a856-024e9e124c55)
+>https://upt-afn-295.azurewebsites.net/
+![image](https://github.com/user-attachments/assets/ff19aa11-8479-4565-818d-81d23ba898dc)
 
 ### CONSTRUCCION DE LA APLICACION - FRONTEND
 
@@ -708,9 +709,9 @@ swa deploy ./publish/wwwroot -n upt-swa-XXX --env production
 
 ![image](https://github.com/user-attachments/assets/463ed443-3843-44a1-95bf-c7a9aa999666)
 
-![image](https://github.com/user-attachments/assets/ad2f6050-0aa5-433b-925b-8328308e156a)
+![image](https://github.com/user-attachments/assets/5809e14f-bd47-407c-8618-6e74ec9dcbb1)
 
-![image](https://github.com/user-attachments/assets/a66197c3-bd1a-4997-aaa6-c9325f08f021)
+![image](https://github.com/user-attachments/assets/cfb93cd4-42f3-4b79-801b-73400d85a81a)
 
 ## ACTIVIDADES ENCARGADAS
 
