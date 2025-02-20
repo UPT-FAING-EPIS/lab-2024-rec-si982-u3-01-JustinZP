@@ -321,12 +321,13 @@ jobs:
             terraform apply -var="suscription_id=${{ secrets.SUSCRIPTION_ID }}" -var="sqladmin_username=${{ secrets.SQL_USER }}" -var="sqladmin_password=${{ secrets.SQL_PASS }}" -auto-approve main.tfplan
 ```
 </details>
-![image](https://github.com/user-attachments/assets/a307cfef-5ce2-4877-9260-29b3bb7d6035)
+
 
 6. En el Visual Studio Code, guardar los cambios y subir los cambios al repositorio. Revisar los logs de la ejeuciòn de automatizaciòn y anotar el numero de identificaciòn de Grupo de Recursos y Aplicación Web creados
 ```Bash
 azurerm_linux_web_app.webapp: Creation complete after 53s [id=/subscriptions/1f57de72-50fd-4271-8ab9-3fc129f02bc0/resourceGroups/upt-arg-XXX/providers/Microsoft.Web/sites/upt-awa-XXX]
 ```
+![image](https://github.com/user-attachments/assets/048fedb6-0e85-4c72-8ba3-0754cfbec2b6)
 
 ### CONSTRUCCION DE LA APLICACION - BACKEND
 
