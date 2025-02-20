@@ -726,6 +726,13 @@ Metricas
 ![alt text](image.png)
 
 2. Realizar el escaneo del codigo de terraform utilizando TfSec o Trivy dentro del Github Action. (2ptos)
-3. En la aplicación completar con las demas funcionalidades, de crear, actualizar y eliminar (4ptos)
-4. Realizar el escaneo de vulnerabilidad con SonarCloud y Semgrep dentro del Github Action correspondiente. (2ptos)
-5. Generar un Action para el despliegue de las dos aplicaciones, backend y frntend, incluyendo todo lo anterior. (4ptos)
+
+>TfSec
+![image](https://github.com/user-attachments/assets/ec7995c0-4bf4-4409-878a-e7e538ddaf49)
+>Trivy
+![image](https://github.com/user-attachments/assets/4e890f4e-9bf3-44f5-8e18-6251e4a50dda)
+
+   
+4. En la aplicación completar con las demas funcionalidades, de crear, actualizar y eliminar (4ptos)
+5. Realizar el escaneo de vulnerabilidad con SonarCloud y Semgrep dentro del Github Action correspondiente. (2ptos)
+6. Generar un Action para el despliegue de las dos aplicaciones, backend y frntend, incluyendo todo lo anterior. (4ptos)
