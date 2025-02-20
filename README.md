@@ -573,10 +573,11 @@ az functionapp deployment source config-zip -g upt-arg-373 -n upt-afn-373 --src 
 
 7. En el Navegador, abrir una nueva pestaña e ingresar a la url https://upt-afn-XXX.azurewebsites.net/api/shorturl
 >Donde: XXX, id de su azure function
+
 ![image](https://github.com/user-attachments/assets/3a61f3f4-ca49-45b0-b859-1cf92083f542)
 
->https://upt-afn-621.azurewebsites.net/
-![image](https://github.com/user-attachments/assets/f399e1e5-2ab9-410d-a856-024e9e124c55)
+>https://upt-afn-295.azurewebsites.net/
+![image](https://github.com/user-attachments/assets/ff19aa11-8479-4565-818d-81d23ba898dc)
 
 ### CONSTRUCCION DE LA APLICACION - FRONTEND
 
