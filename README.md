@@ -550,6 +550,7 @@ dotnet ef database update
 ```Bash
 func start
 ```
+![image](https://github.com/user-attachments/assets/4690b1dd-933b-4627-b62e-894e5f6de046)
 
 6. En el Terminal, ejecutar el siguiente comando para configurar, compilar y desplegar la aplicación.
 ```Bash
