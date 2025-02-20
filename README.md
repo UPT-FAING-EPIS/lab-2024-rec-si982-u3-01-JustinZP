@@ -155,6 +155,7 @@ resource "azurerm_mssql_database" "sqldb" {
 > SQL_USER: Usuario administrador de la base de datos, ejm: adminsql
 > 
 > SQL_PASS: Password del usuario administrador de la base de datos, ejm: upt.2025
+![image](https://github.com/user-attachments/assets/09516405-55b1-4e07-9c2e-114904f8b82d)
 
 5. En el Visual Studio Code, crear la carpeta .github/workflows en la raiz del proyecto, seguidamente crear el archivo deploy.yml con el siguiente contenido
 <details><summary>Click to expand: deploy.yml</summary>
