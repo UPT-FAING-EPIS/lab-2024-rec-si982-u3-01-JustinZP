@@ -532,6 +532,9 @@ namespace ShortenFunction
   }
 }
 ```
+![image](https://github.com/user-attachments/assets/04c99754-cca1-42ed-b62e-f1500310f5b0)
+![image](https://github.com/user-attachments/assets/11c2b0c5-13cc-402a-b32f-c56776a540d8)
+
 >Donde: XXX, id de su servidor de base de datos
 >       YYY, usuario administrador de base de datos
 >       ZZZ, password del usuario de base de datos
