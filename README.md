@@ -735,6 +735,7 @@ Metricas
    
 4. En la aplicación completar con las demas funcionalidades, de crear, actualizar y eliminar (4ptos)
 
+https://nice-tree-03b3ffb10.4.azurestaticapps.net/urlmapping
 
 ![image](https://github.com/user-attachments/assets/c15e0694-e96b-46fa-91c4-1513b7027bb3)
 
