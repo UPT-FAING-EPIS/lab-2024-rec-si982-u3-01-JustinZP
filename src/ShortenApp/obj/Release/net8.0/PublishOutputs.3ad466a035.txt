@@ -1,0 +1,7 @@
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\publish\web.config
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\lab_02.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\publish\ShortenApp.staticwebassets.endpoints.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\publish\wwwroot\sample-data\weather.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\publish\wwwroot\_framework\blazor.boot.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\emcc-props.json
+D:\PROGRA-WEB-RECUPERACION\Unidad3\lab-2024-rec-si982-u3-01-JustinZP\src\ShortenApp\publish\web.config
