@@ -734,7 +734,17 @@ Metricas
 
    
 4. En la aplicación completar con las demas funcionalidades, de crear, actualizar y eliminar (4ptos)
-   ![image](https://github.com/user-attachments/assets/eab99498-ec3b-4238-b759-31da8404cc35)
+
+
+![image](https://github.com/user-attachments/assets/c15e0694-e96b-46fa-91c4-1513b7027bb3)
+
+localmente
+![image](https://github.com/user-attachments/assets/67d077fa-d676-414c-82be-ac47edb7cc30)
+
+   nube
+[   ![image](https://github.com/user-attachments/assets/eab99498-ec3b-4238-b759-31da8404cc35)
+](https://meet.google.com/jjd-xtnv-udz?authuser=2&pli=1)
+
 
 6. Realizar el escaneo de vulnerabilidad con SonarCloud y Semgrep dentro del Github Action correspondiente. (2ptos)
 7. Generar un Action para el despliegue de las dos aplicaciones, backend y frntend, incluyendo todo lo anterior. (4ptos)
