@@ -742,8 +742,8 @@ localmente
 ![image](https://github.com/user-attachments/assets/67d077fa-d676-414c-82be-ac47edb7cc30)
 
    nube
-[   ![image](https://github.com/user-attachments/assets/eab99498-ec3b-4238-b759-31da8404cc35)
-](https://meet.google.com/jjd-xtnv-udz?authuser=2&pli=1)
+![image](https://github.com/user-attachments/assets/4eb4e7e2-a6ea-4ef0-8153-6d4a77753b5b)
+
 
 
 6. Realizar el escaneo de vulnerabilidad con SonarCloud y Semgrep dentro del Github Action correspondiente. (2ptos)
