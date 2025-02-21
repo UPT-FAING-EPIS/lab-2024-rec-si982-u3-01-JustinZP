@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShortenApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69d4d6336f1c2c989fc989fdbe2b03365cf5bf8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1dcf82e561a9d0621b8bae146785d8b19466940")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShortenApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShortenApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
